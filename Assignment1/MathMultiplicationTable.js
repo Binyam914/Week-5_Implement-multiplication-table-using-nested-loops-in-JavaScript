@@ -1,5 +1,3 @@
-// MathMultiplicationTable.js
-
 // Define the size of the multiplication table
 let size = 10;
 
